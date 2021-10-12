@@ -1,0 +1,46 @@
+body
+{
+    background-color: #50c878;
+}
+
+
+.topnav
+{
+    background-color: green;
+    text-align: center;
+    height: 30px;
+}
+
+a
+{
+    margin-left: 40px;
+    color: black;
+}
+
+a:hover
+{
+    color: yellow;
+}
+
+.container
+{
+    border:2px solid yellow;
+}
+
+.container:hover
+{
+    background-color: #29ab87;
+}
+
+.daImg
+{
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+.center
+{
+    text-align: center;
+}
+
